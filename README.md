@@ -1,7 +1,5 @@
 # Weather-Forecast-App
 
-# Weather Forecast App
-
 A simple weather forecast application built with ReactJS that allows users to fetch current weather data for any city.
 
 ## Features
