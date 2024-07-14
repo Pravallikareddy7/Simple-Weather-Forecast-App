@@ -59,6 +59,11 @@ button:active {
   box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
 }
 
+.weather-card img {
+  display: block;
+  margin: 0 auto 10px auto;
+}
+
 @keyframes fadeIn {
   from {
     opacity: 0;
