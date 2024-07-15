@@ -27,7 +27,7 @@ input:focus {
 button {
   padding: 10px 20px;
   background-color: #007bff;
-  color: rgb(214, 35, 35);
+  color: rgb(255, 255, 255);
   border: none;
   border-radius: 5px;
   cursor: pointer;
